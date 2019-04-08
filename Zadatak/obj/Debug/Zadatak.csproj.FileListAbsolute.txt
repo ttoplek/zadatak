@@ -1,0 +1,10 @@
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.csprojAssemblyReference.cache
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.Form1.resources
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\foi.LABOS\Desktop\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
